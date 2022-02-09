@@ -21,4 +21,3 @@ if lib.Network.Invoke("Invite To Bank", mybanks[1]['BUID'], YourID) then
 else
     lib.Message.New("Dupe failure :( please try again");
 end;
-# Formatted by https://skripttools.net/script-formatter
